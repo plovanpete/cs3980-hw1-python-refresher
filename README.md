@@ -10,5 +10,5 @@ A script that runs the fibonacci sequence and times it using a decorator. It wil
 ### Fibonacci Graph:
 ![fibonaccihq](https://github.com/plovanpete/python-refresher/assets/145849883/a7e828bb-ce2e-49ee-adb0-2e0dedbbab3d)
 
-This graph shows the time it takes to calculate the Fibonacci numbers, on the vertical or y-axis, it measures the time calculated for the fibonacci sequence.
+This graph shows the time it takes to calculate the Fibonacci numbers, on the vertical or y-axis, it measures the time *(in seconds)* calculated for the fibonacci sequence.
 On the horizontal or x-axis, it shows the numbers that were used for calcuating the Fibonacci sequence.
