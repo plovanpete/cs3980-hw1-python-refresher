@@ -7,4 +7,8 @@ It will take the last few letters of the word and take them out until the repiti
 ### fib.py
 A script that runs the fibonacci sequence and times it using a decorator. It will give an elasped time after running the equation for fibonacci.
 
-<insert image here>
+### Fibonacci Graph:
+![fibonaccihq](https://github.com/plovanpete/python-refresher/assets/145849883/a7e828bb-ce2e-49ee-adb0-2e0dedbbab3d)
+
+This graph shows the time it takes to calculate the Fibonacci numbers, on the vertical/y-axis, it measures the time calculated for the fibonacci sequence.
+On the x-axis, it shows the numbers that were used for calcuating the Fibonacci sequence.
