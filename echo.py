@@ -4,7 +4,7 @@ def echo(text: str, repetitions: int = 3) -> str:
     # Initializes an empty list
     echoed_lines = []
 
-    # Loops through the range of values in reverse order, using the number of repetitions.
+    # Loops through the range of values in reverse order, using the number of repetitions to count down.
     for i in range(min(len(text), repetitions, len(text)), 0, -1):
         line = text[-i:]
         echoed_lines.append(line)
